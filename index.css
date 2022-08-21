@@ -1,0 +1,84 @@
+.TITULO{
+    text-align: center;
+    color: aliceblue;
+    height: 50px;
+    margin: 0 auto;
+    padding: 15px ;
+
+    background-color: darkslategrey;
+}
+.left{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+table{
+    width: 15%;
+    border-collapse:none ;
+ }
+ th,td{
+    padding: 5px;
+ }
+
+ th{
+    text-align: left;
+ }
+ .perfilpro{
+    position: absolute ;
+    display: block;
+    left: 25px;
+    width:70px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: cadetblue;
+    margin: 0 auto;
+    text-align: center;
+ }
+ .perfil{
+
+    width: 600px;
+ }
+ .nombre-de-la-intitucion{
+
+    display: block;
+    background-color: rgb(166, 212, 56);
+    border-radius: 15px;
+    width: 350px;
+    height: 20px;
+    text-align: center;
+
+
+ }
+
+
+ .academico{
+    display: block;
+    background-color: rgb(194, 226, 106);
+    border-radius: 15px;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    left:150px;
+}
+.empresa{
+    display: block;
+    background-color: rgb(175, 250, 0);
+    border-radius: 15px;
+    width: 180px;
+    height: 20px;
+    text-align: center;
+}
+
+.hobbies{
+    display: block;
+    background-color: rgb(148, 252, 99);
+    border-radius: 15px;
+    width: 180px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
+}
+.left{
+    margin-right: 0 auto;
+}
